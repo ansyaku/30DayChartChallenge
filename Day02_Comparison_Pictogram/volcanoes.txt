@@ -1,0 +1,6 @@
+Kepulauan,Jumlah
+Bali & Nusa,22
+Jawa,23
+Maluku,12
+Sulawesi,11
+Sumatera,8
