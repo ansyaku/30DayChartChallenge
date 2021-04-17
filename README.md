@@ -14,3 +14,13 @@ ____________________________________________________
 4. Day 4: Magical - Wordcloud of Old Testament and New Testament
 5. Day 5: Slope
 6. Day 6: Experimental
+
+Distributions:
+____________________________________________________
+
+Day 7: Physical
+Day 8: Animals
+Day 9: Statistics
+Day 10: Abstract
+Day 11: Circular
+Day 12: Strips
