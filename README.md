@@ -8,9 +8,9 @@ Here is the title of each visualization.
 Comparisons:
 ____________________________________________________
 
-1. Day 1: Part-to-whole -
+1. Day 1: Part-to-whole - Number of Indonesian Civil Aircraft
 2. Day 2: Pictogram - Number of Active Volcanoes in Indonesia by Island
-3. Day 3: Historical - Number of Indonesian Civil Aircraft
-4. Day 4: Magical
+3. Day 3: Historical - 
+4. Day 4: Magical - Wordcloud of Old Testament and New Testament
 5. Day 5: Slope
 6. Day 6: Experimental
