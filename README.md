@@ -18,9 +18,9 @@ ____________________________________________________
 Distributions:
 ____________________________________________________
 
-Day 7: Physical
-Day 8: Animals
-Day 9: Statistics
-Day 10: Abstract
-Day 11: Circular
-Day 12: Strips
+7. Day 7: Physical
+8. Day 8: Animals
+9. Day 9: Statistics
+10. Day 10: Abstract
+11. Day 11: Circular
+12. Day 12: Strips
