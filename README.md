@@ -20,7 +20,7 @@ ____________________________________________________
 
 7. Day 7: Physical
 8. Day 8: Animals
-9. Day 9: Statistics: Temperature Distributions of North Sumatera
+9. Day 9: Statistics - Temperature Distributions of North Sumatera
 10. Day 10: Abstract
 11. Day 11: Circular - Airlines Connection Between Capital City of Province in Indonesia
-12. Day 12: Strips
+12. Day 12: Strips - Fishermen Exchange Rate Index (Nilai Tukar Nelayan)

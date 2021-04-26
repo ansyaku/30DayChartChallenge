@@ -17,7 +17,7 @@ head(data)
 
 #Plotting Data Using stata theme from ggtheme
 #First, refactor month level
-ord <- c("JAN", "FEB", "MARCH", "APR", "MAY", "JUN", "JULY","AUG","SEP","OCT","NOV","DEC")
+ord <- c("JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JULY","AUG","SEP","OCT","NOV","DEC")
 e <- ggplot(data, aes(x =factor(Month, level = ord), y = NTN))
 e + geom_jitter(aes(colour = Years), 
                 position = position_jitter(0.2), size = 4)+
