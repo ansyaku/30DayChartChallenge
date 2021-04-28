@@ -19,7 +19,7 @@ Distributions:
 ____________________________________________________
 
 7. Day 7: Physical - Distributions of Health Workforce for 100.000 Population
-8. Day 8: Animals
+8. Day 8: Animals - Catch per Unit of Silky Shark (Carcharhinus Falciformis)
 9. Day 9: Statistics - Temperature Distributions of North Sumatera
 10. Day 10: Abstract
 11. Day 11: Circular - Airlines Connection Between Capital City of Province in Indonesia
