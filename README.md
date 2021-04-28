@@ -18,7 +18,7 @@ ____________________________________________________
 Distributions:
 ____________________________________________________
 
-7. Day 7: Physical
+7. Day 7: Physical - Distributions of Health Workforce for 100.000 Population
 8. Day 8: Animals
 9. Day 9: Statistics - Temperature Distributions of North Sumatera
 10. Day 10: Abstract
